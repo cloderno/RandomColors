@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		851047B92B15B5D400784C01 /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851047B82B15B5D400784C01 /* UIColor+Ext.swift */; };
 		85459A1B2B159503003D906A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85459A1A2B159503003D906A /* AppDelegate.swift */; };
 		85459A1D2B159503003D906A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85459A1C2B159503003D906A /* SceneDelegate.swift */; };
 		85459A222B159503003D906A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85459A202B159503003D906A /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		851047B82B15B5D400784C01 /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
 		85459A172B159503003D906A /* RandomColors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomColors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85459A1A2B159503003D906A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85459A1C2B159503003D906A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				85459A282B159513003D906A /* Info.plist */,
 				85459A302B15975B003D906A /* ColorsTableVC.swift */,
 				85459A332B159A0E003D906A /* ColorDetailVC.swift */,
+				851047B82B15B5D400784C01 /* UIColor+Ext.swift */,
 			);
 			path = RandomColors;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				85459A312B15975B003D906A /* ColorsTableVC.swift in Sources */,
 				85459A342B159A0E003D906A /* ColorDetailVC.swift in Sources */,
+				851047B92B15B5D400784C01 /* UIColor+Ext.swift in Sources */,
 				85459A1B2B159503003D906A /* AppDelegate.swift in Sources */,
 				85459A1D2B159503003D906A /* SceneDelegate.swift in Sources */,
 			);
